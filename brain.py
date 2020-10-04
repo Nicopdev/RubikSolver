@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Rubik's Cube Solver
-6 motors version
-"""
-
 from models import Solver
 
 

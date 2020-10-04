@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Models
-
-@author: nico
-"""
-
 import serial
 import kociemba # To solve the cube
 import time

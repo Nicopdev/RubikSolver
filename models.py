@@ -20,7 +20,7 @@ class Port:
     
     def reset(self):
         self.port.setDTR(False)
-        time.sleep(1)
+        sleep(1)
         self.port.flushInput()
         self.port.setDTR(True)
 

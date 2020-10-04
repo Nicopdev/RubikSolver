@@ -2,9 +2,9 @@
 
 Simple Python & C++ (Arduino) Rubik's Cube Solver
 It's just like many other Rubik's cube solvers that you have already seen on the internet.
-Everything was coded by myself, no copy-and-paste or anything like that.
-I sure referenced documentation, forums and tutorials to make it work.
-I tried to coded as simple as possible without losing performance (even tho it's not the best performing code possible, obviously)
+I coded everything by myself, without any copy-and-paste or anything like that.
+I referenced documentation, forums and tutorials to make it work.
+I tried to code it as simple as possible without losing performance (even tho it's not the best performing code possible, obviously)
 
 I used the following libraries:
 - Kociemba
@@ -29,3 +29,5 @@ Then the code listens to any incoming data from the USB.
 The data will always begin with a "!" and end with a ";".
 
 Currently the motors are not activated. The code just sends back to Python the same commands it received (this was needed for debugging and will be removed)
+
+*comments will be added

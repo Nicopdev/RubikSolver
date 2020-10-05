@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Dependencies
+# Dependancies
 from serial import Serial # Connects to the USB and communicates with the Arduino
 from kociemba import solve # Given a scrumble returns a string containing the solution in the official notation
 from time import sleep # Stops the Python script for N seconds eg. sleep(N)

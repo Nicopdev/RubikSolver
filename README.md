@@ -30,4 +30,3 @@ The data will always begin with a "!" and end with a ";".
 
 Currently the motors are not activated. The code just sends back to Python the same commands it received (this was needed for debugging and will be removed)
 
-*comments will be added

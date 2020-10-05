@@ -6,6 +6,9 @@ I coded everything by myself, without any copy-and-paste or anything like that.
 I referenced documentation, forums and tutorials to make it work.
 I tried to code it as simple as possible without losing performance (even tho it's not the best performing code possible, obviously)
 
+I learnt a lot from this project and I suggest it if you're still a beginner-intermediate (It's not astonishing easy, but it's still easy).
+The code for Arduino is still not finished as I'm waiting for the hardware to arrive.
+
 ## Dependancies
 - Kociemba
 - PySerial
@@ -17,7 +20,7 @@ This file contains just the "frontend" part of the project. It uses classes from
 ## models.py
 This file contains all the models I created to simplify and clear the code as much as possible.
 
-- Port: connect to the USB port, sends and receives data to and from the arduino and resets the arduino.
+- Port: connects to the USB port, sends and receives data to and from the arduino and resets the arduino.
 - Koci: solves the rubik's cube and converts the string given by the Kociemba module into an array
 - Motor: sends data to the arduino depending on the array given by the Koci class. It uses the Port class to do so.
 - Solver: connects to the Arduino, then solves the cube using all the previous models.

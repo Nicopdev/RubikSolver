@@ -9,7 +9,7 @@ I tried to code it as simple as possible without losing performance (even tho it
 I learnt a lot from this project and I suggest it if you're still a beginner-intermediate (It's not astonishing easy, but it's still easy).
 The code for Arduino is still not finished as I'm waiting for the hardware to arrive.
 
-Special thanks to Harry for helping me cleaning up the Python code and for his tips.
+Special thanks to Harry for helping me cleaning up the Python code and for his tips on my [reddit post](https://www.reddit.com/r/Python/comments/j57ceg/i_made_a_rubiks_cube_solver/g7qh6wo?utm_source=share&utm_medium=web2x&context=3)
 
 ## Dependancies
 - Kociemba

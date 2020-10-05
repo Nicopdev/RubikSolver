@@ -9,6 +9,8 @@ I tried to code it as simple as possible without losing performance (even tho it
 I learnt a lot from this project and I suggest it if you're still a beginner-intermediate (It's not astonishing easy, but it's still easy).
 The code for Arduino is still not finished as I'm waiting for the hardware to arrive.
 
+Special thanks to Harry for helping me cleaning up the Python code and for his tips.
+
 ## Dependancies
 - Kociemba
 - PySerial
